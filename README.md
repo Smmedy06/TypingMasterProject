@@ -6,6 +6,7 @@ Typing Master Project is a fun and interactive typing test and mini-games applic
 **Prerequisites**
 A C++ compiler that supports C++17 or higher.
 Raylib library installed on your system. Check the official guide for installation steps.
+
 **Download Instructions**
 **Code Files:**
 To view the code and modify it, download the folder Typing Master Code Files.
