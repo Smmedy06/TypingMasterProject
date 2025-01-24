@@ -19,9 +19,12 @@ To test and run the project directly, download the folder Typing Master (exe) an
 
 **Documentation:**
 For detailed documentation, read Typing Master.cpp, which explains the project’s structure and functionality.
-**
-Features**
+
+**Features**
 **Login/Registration System:** Secure login and validation with input restrictions.
+
 **Typing Test:** Multiple test durations, difficulty levels, and live feedback with accuracy and WPM tracking.
+
 **Word-Cloud Game:** Interactive game with a scoring and combo system.
-**Statistics: **View your performance history, including WPM, accuracy, and test summaries.
+
+**Statistics:** View your performance history, including WPM, accuracy, and test summaries.
